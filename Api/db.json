@@ -2,5 +2,8 @@
     "cars": [
     ],
     "wishlisted_cars": [
+    ],
+    "users":[
+      {"id":1,"email":"123@gmail.com","username":"123","task":["present"],"password":"123"}
     ]
   }
